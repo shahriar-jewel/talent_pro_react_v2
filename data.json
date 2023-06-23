@@ -1,0 +1,52 @@
+{
+    "heading":[
+        {
+        "titleBig": "Explore Our Storage Space, Co-Working Space, Co-Warehouse & Services",
+        "titleSmall": "Carefully crafted for a hassle-free and affordable experience"
+        }
+    ],
+    "featuredItems": [
+        {
+            "id": "1",
+            "image": "images/door-to-door.svg",
+            "title": "Door to Door Storage",
+            "description": "We pick up, store & deliver"
+        },
+        {
+            "id": "2",
+            "image": "images/self-access.svg",
+            "title": "Self Access Storage",
+            "description": "24/7 Access Secured Storage Unit"
+        },
+        {
+            "id": "3",
+            "image": "images/document-storage.svg",
+            "title": "Document Storage",
+            "description": "Store offsite and manage online"
+        },
+        {
+            "id": "4",
+            "image": "images/marketing-merchandise.svg",
+            "title": "Marketing Marchendise",
+            "description": "Send swags to us and click for returns"
+        },
+        {
+            "id": "5",
+            "image": "images/retail-_-ecommerce.svg",
+            "title": "Retail and e-Commerce",
+            "description": "We'll recieve, store, pick, pack and ship"
+        },
+        {
+            "id": "6",
+            "image": "images/spacelabs.svg",
+            "title": "Co-Working and Co-Warehousing",
+            "description": "Work, store, operate and ship all in one place"
+        },
+        {
+            "id": "7",
+            "image": "images/office-with-storage.svg",
+            "title": "Office With Storage",
+            "description": "Office space with storage space"
+        }
+    ]
+}
